@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="92ceb4b4-e870-4c00-9c48-4b2b7b96235b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../.idea/go_dev.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day12/logAgent1/conf/conf.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day12/logAgent1/conf/conf.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day12/logAgent1/kafka/kafka.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day12/logAgent1/logAgent" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day12/logAgent1/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day12/logAgent1/my.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day12/logAgent1/taillog/tail.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day12/logAgent2/conf/conf.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day12/logAgent2/conf/conf.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day12/logAgent2/etcd/etcd.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day12/logAgent2/kafka/kafka.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day12/logAgent2/logAgent" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day12/logAgent2/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day12/logAgent2/my.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day12/logAgent2/taillog/tail.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day14/go_gin_template01/index.tpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day14/go_gin_template01/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day14/go_gin_template01/temp.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day14/go_gin_template02/index.tpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day14/go_gin_template02/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bookstore/.idea/bookstore.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/e_commerce.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../category/.idea/category.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../category/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../category/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../category/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../category/common/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../category/common/config.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../category/common/mysql.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../category/common/swap.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../category/domain/model/category.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../category/domain/repository/category_repository.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../category/domain/service/category_data_service.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../category/generate.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../category/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../category/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../category/handler/category.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../category/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../category/plugin.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../category/proto/category/category.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product/domain/model/product_image.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product/domain/model/product_seo.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product/domain/model/product_size.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user/.idea/user.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../grpc_gomicro.com/.idea/grpc_gomicro.com.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../grpc_gomicro.com/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Golang.md/Nsq.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Golang.md/flag.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Golang.md/mySQLX.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Golang.md/mysql.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Golang.md/net&amp;http.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Golang.md/网络编程.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day10/mysql_select/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../../../day10/mysql_select/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day11/tail/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../../../day11/tail/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day12/context/mian.go" beforeDir="false" afterPath="$PROJECT_DIR$/../../../day12/context/mian.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day12/etcd_con/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../../../day12/etcd_con/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day12/etcd_example/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../../../day12/etcd_example/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day12/kafka_consumer/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../../../day12/kafka_consumer/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day4/map/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../../../day4/map/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day8/test/student.go" beforeDir="false" afterPath="$PROJECT_DIR$/../../../day8/test/student.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day9/redis_pool/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../../../day9/redis_pool/main.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="/usr/local/opt/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1qtFa9nqjz7fF5lHvfNlZDbOOMt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+</project>
